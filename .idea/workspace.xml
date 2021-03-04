@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c06e62c-633e-40b5-ae42-b0bb809ae63f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/internationalsms/multixsend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/internationalsms/multixsend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/internationalsms/send.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/internationalsms/send.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/internationalsms/xsend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/internationalsms/xsend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/mail/send.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/mail/send.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/mail/xsend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/mail/xsend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/mms/multixsend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/mms/multixsend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/mms/xsend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/mms/xsend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/sms/multisend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/sms/multisend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/sms/multixsend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/sms/multixsend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/sms/send.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/sms/send.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/sms/xsend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/sms/xsend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/voice/multixsend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/voice/multixsend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/voice/send.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/voice/send.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail/voice/xsend.go" beforeDir="false" afterPath="$PROJECT_DIR$/submail/voice/xsend.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submail_go_sdks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_attachment2.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="9s7mayzy" />
+  </component>
+  <component name="ProjectId" id="1pH198k5BLsLhimqPvBfybL76vB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="665" y="354" width="647" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614825056046">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="665" y="354" width="647" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1614825056046" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1614826158874">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1614826158874" />
+  </component>
+</project>

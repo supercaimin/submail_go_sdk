@@ -2,7 +2,7 @@ package sms
 
 import (
 	"encoding/json"
-	lib "submail_go_sdk/submail/lib"
+	lib "github.com/supercaimin/submail_go_sdk/submail/lib"
 )
 
 type multisend struct {
